@@ -1,12 +1,6 @@
 # nextjs
 
-Colorize: https://1drv.ms/u/c/f5c79674d08fb8f6/ETkUe5Wiir1Cg3pNrx3-BssBjp7HRNaixiO7PszgVCAHyg?e=YABxCB
-
-RMBG: 
-https://1drv.ms/u/c/b6d8d10d59e1d978/EX6HidEcB5BFgl1hnQ1lsLEBKmjI_T_9cCRj3079KmFPMQ?e=bgotiU
-
-ANT Design:
-https://1drv.ms/u/c/f5c79674d08fb8f6/EQMIRSGYvqVImvYUaVf7sBUBPl1eXVHJ4yVx-WlhUAVUAw?e=jnOb7N
-
 Facial Expression:
 https://1drv.ms/u/s!AmPF1inXjWIPcNz96i_vqh2lBz8?e=DeNBtk
+
+Deoldify(Last): https://1drv.ms/u/c/b6d8d10d59e1d978/EZwXBqBKCfFJn83Lme3L2foBKTG6RvciRtWnJ3lqAr3n6g?e=6nWo9S
