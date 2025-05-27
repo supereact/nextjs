@@ -1,8 +1,4 @@
 # nextjs
 
-Facial Expression:
-https://1drv.ms/u/s!AmPF1inXjWIPcNz96i_vqh2lBz8?e=DeNBtk
-
-Deoldify(Last): https://1drv.ms/u/c/b6d8d10d59e1d978/EZwXBqBKCfFJn83Lme3L2foBKTG6RvciRtWnJ3lqAr3n6g?e=6nWo9S
-
-Next Material:(Last) https://1drv.ms/u/c/b6d8d10d59e1d978/EXoQVdAdSwRMmnEr-4jci1kBEnEXNaVxULwDp97h9r_ayw?e=pqJfrr
+Verdaccio: 
+https://1drv.ms/u/c/f5c79674d08fb8f6/EbaLwvfTTm5Mk9ABu3IAl_ABpIOgGso4fD-k4aPoqZ60Jw?e=eYbYdZ
